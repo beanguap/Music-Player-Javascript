@@ -6,7 +6,7 @@ This project is a simple and intuitive music player designed specifically for en
 
     Sleek Interface: A clean and minimalistic user interface to keep distractions at bay.
     Playlists: Create and manage playlists tailored to your study preferences.
-    Customizable Controls: Easily play, pause, skip tracks, and adjust volume with user-friendly controls.
+    Customizable Controls: Easily play, pause, skip tracks, and delete tracks with user-friendly controls.
     
 ## 🔧 Check out Demo & Connect with Developer
 
